@@ -1,12 +1,9 @@
-import autoload from "@fastify/autoload";
 import sensiblePlugin from "./plugins/sensible.js";
 import lowDBPlugin from "./plugins/lowdb.js";
 import rootRoute from "./routes/root.js";
 import answerRoute from "./routes/answer.js";
 import randomizeRoute from "./routes/randomize.js";
 import checkRoute from "./routes/check.js";
-
-import { JSONFilePreset } from "lowdb/node";
 
 /** @type {import('fastify').FastifyPluginAsync} */
 export default async function (fastify, options) {
