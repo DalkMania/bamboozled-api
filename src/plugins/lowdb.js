@@ -5,7 +5,7 @@ import { JSONFilePreset } from "lowdb/node";
  * This plugin adds LowDB to Fastify
  */
 export default plugin(async function (fastify) {
-  const database = await JSONFilePreset("./src/db/db.json", {});
+  const database = await JSONFilePreset("db.json", {});
   await database.read();
 
   database.data = database.data || { puzzles: [], answers: [] };
