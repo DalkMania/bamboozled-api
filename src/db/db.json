@@ -1,0 +1,3486 @@
+{
+  "puzzles": [
+    {
+      "id": "puzzle-1-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle1-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-1-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle1-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-1-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle1-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-1-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle1-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-1-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle1-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-1-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle1-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-3-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle3-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-3-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle3-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-3-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle3-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-3-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle3-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-3-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle3-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-3-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle3-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-4-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle4-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-4-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle4-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-4-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle4-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-4-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle4-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-4-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle4-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-4-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle4-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-5-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle5-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-5-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle5-2.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-5-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle5-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-5-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle5-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-5-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle5-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-5-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle5-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-6-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle6-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-6-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle6-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-6-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle6-3.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-6-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle6-4.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-6-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle6-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-6-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle6-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-7-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle7-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-7-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle7-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-7-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle7-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-7-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle7-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-7-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle7-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-7-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle7-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-9-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle9-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-9-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle9-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-9-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle9-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-9-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle9-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-9-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle9-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-9-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle9-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-10-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle10-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-10-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle10-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-10-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle10-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-10-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle10-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-10-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle10-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-10-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle10-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-11-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle11-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-11-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle11-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-11-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle11-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-11-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle11-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-11-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle11-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-11-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle11-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-12-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle12-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-12-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle12-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-12-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle12-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-12-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle12-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-12-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle12-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-12-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle12-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-13-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle13-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-13-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle13-2.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-13-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle13-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-13-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle13-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-13-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle13-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-13-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle13-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-14-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle14-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-14-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle14-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-14-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle14-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-14-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle14-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-14-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle14-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-14-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle14-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-15-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle15-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-15-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle15-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-15-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle15-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-15-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle15-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-15-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle15-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-15-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle15-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-16-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle16-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-16-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle16-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-16-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle16-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-16-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle16-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-16-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle16-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-16-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle16-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-17-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle17-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-17-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle17-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-17-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle17-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-17-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle17-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-17-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle17-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-17-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle17-6.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-18-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle18-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-18-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle18-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-18-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle18-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-18-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle18-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-18-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle18-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-18-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle18-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-19-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle19-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-19-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle19-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-19-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle19-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-19-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle19-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-19-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle19-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-19-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle19-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-20-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle20-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-20-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle20-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-20-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle20-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-20-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle20-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-20-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle20-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-20-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle20-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-21-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle21-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-21-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle21-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-21-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle21-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-21-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle21-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-21-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle21-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-21-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle21-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-22-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle22-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-22-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle22-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-22-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle22-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-22-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle22-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-22-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle22-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-22-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle22-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-23-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle23-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-23-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle23-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-23-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle23-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-23-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle23-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-23-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle23-5.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-23-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle23-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-24-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle24-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-24-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle24-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-24-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle24-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-24-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle24-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-24-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle24-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-24-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle24-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-25-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle25-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-25-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle25-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-25-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle25-3.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-25-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle25-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-25-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle25-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-25-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle25-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-26-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle26-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-26-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle26-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-26-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle26-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-26-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle26-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-26-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle26-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-26-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle26-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-27-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle27-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-27-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle27-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-27-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle27-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-27-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle27-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-27-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle27-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-27-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle27-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-28-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle28-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-28-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle28-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-28-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle28-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-28-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle28-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-28-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle28-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-28-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle28-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-29-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle29-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-29-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle29-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-29-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle29-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-29-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle29-4.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-29-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle29-5.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-29-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle29-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-30-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle30-1.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-30-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle30-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-30-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle30-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-30-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle30-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-30-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle30-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-30-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle30-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-31-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle31-1.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-31-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle31-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-31-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle31-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-31-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle31-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-31-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle31-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-31-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle31-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-32-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle32-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-32-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle32-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-32-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle32-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-32-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle32-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-32-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle32-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-32-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle32-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-33-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle33-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-33-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle33-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-33-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle33-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-33-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle33-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-33-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle33-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-33-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle33-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-34-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle34-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-34-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle34-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-34-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle34-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-34-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle34-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-34-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle34-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-34-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle34-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-35-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle35-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-35-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle35-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-35-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle35-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-35-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle35-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-35-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle35-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-35-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle35-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-36-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle36-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-36-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle36-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-36-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle36-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-36-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle36-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-36-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle36-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-36-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle36-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-37-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle37-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-37-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle37-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-37-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle37-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-37-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle37-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-37-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle37-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-37-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle37-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-38-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle38-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-38-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle38-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-38-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle38-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-38-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle38-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-38-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle38-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-38-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle38-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-39-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle39-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-39-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle39-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-39-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle39-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-39-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle39-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-39-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle39-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-39-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle39-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-40-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle40-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-40-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle40-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-40-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle40-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-40-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle40-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-40-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle40-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-40-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle40-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-41-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle41-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-41-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle41-2.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-41-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle41-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-41-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle41-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-41-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle41-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-41-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle41-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-42-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle42-1.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-42-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle42-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-42-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle42-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-42-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle42-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-42-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle42-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-42-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle42-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-43-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle43-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-43-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle43-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-43-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle43-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-43-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle43-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-43-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle43-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-43-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle43-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-44-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle44-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-44-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle44-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-44-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle44-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-44-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle44-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-44-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle44-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-44-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle44-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-45-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle45-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-45-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle45-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-45-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle45-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-45-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle45-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-45-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle45-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-45-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle45-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-46-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle46-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-46-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle46-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-46-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle46-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-46-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle46-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-46-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle46-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-46-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle46-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-47-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle47-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-47-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle47-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-47-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle47-3.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-47-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle47-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-47-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle47-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-47-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle47-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-48-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle48-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-48-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle48-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-48-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle48-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-48-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle48-4.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-48-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle48-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-48-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle48-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-49-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle49-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-49-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle49-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-49-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle49-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-49-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle49-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-49-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle49-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-49-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle49-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-50-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle50-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-50-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle50-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-50-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle50-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-50-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle50-4.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-50-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle50-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-50-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle50-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-51-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle51-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-51-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle51-2.png",
+      "current": true,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-51-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle51-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-51-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle51-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-51-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle51-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-51-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle51-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-52-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle52-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-52-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle52-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-52-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle52-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-52-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle52-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-52-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle52-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-52-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle52-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-53-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle53-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-53-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle53-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-53-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle53-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-53-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle53-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-53-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle53-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-53-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle53-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-54-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle54-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-54-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle54-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-54-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle54-3.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-54-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle54-4.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-54-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle54-5.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-54-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle54-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-55-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle55-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-55-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle55-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-55-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle55-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-55-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle55-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-55-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle55-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-55-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle55-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-56-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle56-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-56-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle56-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-56-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle56-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-56-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle56-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-56-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle56-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-56-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle56-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-57-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle57-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-57-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle57-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-57-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle57-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-57-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle57-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-57-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle57-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-57-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle57-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-58-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle58-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-58-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle58-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-58-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle58-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-58-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle58-4.png",
+      "current": false,
+      "hasBeen": true
+    },
+    {
+      "id": "puzzle-58-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle58-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-58-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle58-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-59-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle59-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-59-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle59-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-59-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle59-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-59-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle59-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-59-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle59-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-59-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle59-6.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-60-1",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle60-1.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-60-2",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle60-2.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-60-3",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle60-3.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-60-4",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle60-4.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-60-5",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle60-5.png",
+      "current": false,
+      "hasBeen": false
+    },
+    {
+      "id": "puzzle-60-6",
+      "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle60-6.png",
+      "current": false,
+      "hasBeen": false
+    }
+  ],
+  "answers": [
+    {
+      "id": "answer-1-1",
+      "answer": "Falling Temperature"
+    },
+    {
+      "id": "answer-1-2",
+      "answer": "Two Under Par"
+    },
+    {
+      "id": "answer-1-3",
+      "answer": "Fat Chance"
+    },
+    {
+      "id": "answer-1-4",
+      "answer": "Broken Heart"
+    },
+    {
+      "id": "answer-1-5",
+      "answer": "Hot Under the Collar"
+    },
+    {
+      "id": "answer-1-6",
+      "answer": "Head in the Sand"
+    },
+    {
+      "id": "answer-3-1",
+      "answer": "Somewhere Over the Rainbow"
+    },
+    {
+      "id": "answer-3-2",
+      "answer": "X Marks the Spot"
+    },
+    {
+      "id": "answer-3-3",
+      "answer": "Put two and two Together"
+    },
+    {
+      "id": "answer-3-4",
+      "answer": "Just Right"
+    },
+    {
+      "id": "answer-3-5",
+      "answer": "I Before E Except After C"
+    },
+    {
+      "id": "answer-3-6",
+      "answer": "High Seas"
+    },
+    {
+      "id": "answer-4-1",
+      "answer": "Play on Words"
+    },
+    {
+      "id": "answer-4-2",
+      "answer": "Get in Shape"
+    },
+    {
+      "id": "answer-4-3",
+      "answer": "Monkey on Your Back"
+    },
+    {
+      "id": "answer-4-4",
+      "answer": "Dr. Dolittle"
+    },
+    {
+      "id": "answer-4-5",
+      "answer": "Fooling Around"
+    },
+    {
+      "id": "answer-4-6",
+      "answer": "A Kick in the Butt"
+    },
+    {
+      "id": "answer-5-1",
+      "answer": "Backing Up"
+    },
+    {
+      "id": "answer-5-2",
+      "answer": "Sleeping at the Wheel"
+    },
+    {
+      "id": "answer-5-3",
+      "answer": "Quarterback"
+    },
+    {
+      "id": "answer-5-4",
+      "answer": "Coffee Break"
+    },
+    {
+      "id": "answer-5-5",
+      "answer": "Identical Twins"
+    },
+    {
+      "id": "answer-5-6",
+      "answer": "Count the Ways"
+    },
+    {
+      "id": "answer-6-1",
+      "answer": "No one to Blame"
+    },
+    {
+      "id": "answer-6-2",
+      "answer": "Right between the eyes"
+    },
+    {
+      "id": "answer-6-3",
+      "answer": "Jack in the Box"
+    },
+    {
+      "id": "answer-6-4",
+      "answer": "Down Payment"
+    },
+    {
+      "id": "answer-6-5",
+      "answer": "Left Overs"
+    },
+    {
+      "id": "answer-6-6",
+      "answer": "Bedspread"
+    },
+    {
+      "id": "answer-7-1",
+      "answer": "Cry all the way to the bank"
+    },
+    {
+      "id": "answer-7-2",
+      "answer": "The stakes are high"
+    },
+    {
+      "id": "answer-7-3",
+      "answer": "That's too bad"
+    },
+    {
+      "id": "answer-7-4",
+      "answer": "Eyes in the back of my head"
+    },
+    {
+      "id": "answer-7-5",
+      "answer": "Miniskirt"
+    },
+    {
+      "id": "answer-7-6",
+      "answer": "All in All"
+    },
+    {
+      "id": "answer-9-1",
+      "answer": "Foreign Policy"
+    },
+    {
+      "id": "answer-9-2",
+      "answer": "Party line"
+    },
+    {
+      "id": "answer-9-3",
+      "answer": "Covered Wagon"
+    },
+    {
+      "id": "answer-9-4",
+      "answer": "Back to the Future"
+    },
+    {
+      "id": "answer-9-5",
+      "answer": "Midwife"
+    },
+    {
+      "id": "answer-9-6",
+      "answer": "Off Sides"
+    },
+    {
+      "id": "answer-10-1",
+      "answer": "Working Overtime"
+    },
+    {
+      "id": "answer-10-2",
+      "answer": "Do Without"
+    },
+    {
+      "id": "answer-10-3",
+      "answer": "Teddy Bear"
+    },
+    {
+      "id": "answer-10-4",
+      "answer": "Shot in the Dark"
+    },
+    {
+      "id": "answer-10-5",
+      "answer": "Eiffel Tower"
+    },
+    {
+      "id": "answer-10-6",
+      "answer": "Long Island"
+    },
+    {
+      "id": "answer-11-1",
+      "answer": "Tulips"
+    },
+    {
+      "id": "answer-11-2",
+      "answer": "Back in five minutes"
+    },
+    {
+      "id": "answer-11-3",
+      "answer": "One Life to Live"
+    },
+    {
+      "id": "answer-11-4",
+      "answer": "First Thing in the Morning"
+    },
+    {
+      "id": "answer-11-5",
+      "answer": "Go Through the Motion"
+    },
+    {
+      "id": "answer-11-6",
+      "answer": "The Coast is Clear"
+    },
+    {
+      "id": "answer-12-1",
+      "answer": "Better safe than sorry"
+    },
+    {
+      "id": "answer-12-2",
+      "answer": "Wheel of Fortune"
+    },
+    {
+      "id": "answer-12-3",
+      "answer": "Hard times ahead"
+    },
+    {
+      "id": "answer-12-4",
+      "answer": "Black eyed peas"
+    },
+    {
+      "id": "answer-12-5",
+      "answer": "Jumbo Jet"
+    },
+    {
+      "id": "answer-12-6",
+      "answer": "Minimize"
+    },
+    {
+      "id": "answer-13-1",
+      "answer": "Decide"
+    },
+    {
+      "id": "answer-13-2",
+      "answer": "Spaceship"
+    },
+    {
+      "id": "answer-13-3",
+      "answer": "Multiple Choice"
+    },
+    {
+      "id": "answer-13-4",
+      "answer": "Floor Model"
+    },
+    {
+      "id": "answer-13-5",
+      "answer": "Noone Knows"
+    },
+    {
+      "id": "answer-13-6",
+      "answer": "Thunderstorm"
+    },
+    {
+      "id": "answer-14-1",
+      "answer": "Sixth Sense"
+    },
+    {
+      "id": "answer-14-2",
+      "answer": "To Sum it Up"
+    },
+    {
+      "id": "answer-14-3",
+      "answer": "Blanket"
+    },
+    {
+      "id": "answer-14-4",
+      "answer": "Strong Undertow"
+    },
+    {
+      "id": "answer-14-5",
+      "answer": "Back Issues"
+    },
+    {
+      "id": "answer-14-6",
+      "answer": "Stretching the Truth"
+    },
+    {
+      "id": "answer-15-1",
+      "answer": "Keeping You Out of Trouble"
+    },
+    {
+      "id": "answer-15-2",
+      "answer": "Foreign Movie"
+    },
+    {
+      "id": "answer-15-3",
+      "answer": "A Little Rough Around the Edges"
+    },
+    {
+      "id": "answer-15-4",
+      "answer": "Too Little, Too Late"
+    },
+    {
+      "id": "answer-15-5",
+      "answer": "Double Your Money Back"
+    },
+    {
+      "id": "answer-15-6",
+      "answer": "Start of Something Big"
+    },
+    {
+      "id": "answer-16-1",
+      "answer": "One step forward, two steps back"
+    },
+    {
+      "id": "answer-16-2",
+      "answer": "Double or nothing"
+    },
+    {
+      "id": "answer-16-3",
+      "answer": "Peppermint twist"
+    },
+    {
+      "id": "answer-16-4",
+      "answer": "Forefathers"
+    },
+    {
+      "id": "answer-16-5",
+      "answer": "Enroll"
+    },
+    {
+      "id": "answer-16-6",
+      "answer": "Addresses"
+    },
+    {
+      "id": "answer-17-1",
+      "answer": "You can count on it"
+    },
+    {
+      "id": "answer-17-2",
+      "answer": "Foot in the door"
+    },
+    {
+      "id": "answer-17-3",
+      "answer": "No can do"
+    },
+    {
+      "id": "answer-17-4",
+      "answer": "Honest to goodness"
+    },
+    {
+      "id": "answer-17-5",
+      "answer": "Way overpriced"
+    },
+    {
+      "id": "answer-17-6",
+      "answer": "Living on a shoestring"
+    },
+    {
+      "id": "answer-18-1",
+      "answer": "Drawn to scale"
+    },
+    {
+      "id": "answer-18-2",
+      "answer": "Round of Applause"
+    },
+    {
+      "id": "answer-18-3",
+      "answer": "Splitting Hairs"
+    },
+    {
+      "id": "answer-18-4",
+      "answer": "They're all the same"
+    },
+    {
+      "id": "answer-18-5",
+      "answer": "There's no end to it"
+    },
+    {
+      "id": "answer-18-6",
+      "answer": "Different strokes for different folks"
+    },
+    {
+      "id": "answer-19-1",
+      "answer": "Words of wisdom"
+    },
+    {
+      "id": "answer-19-2",
+      "answer": "All dressed up and no place to go"
+    },
+    {
+      "id": "answer-19-3",
+      "answer": "Split two ways"
+    },
+    {
+      "id": "answer-19-4",
+      "answer": "High chair"
+    },
+    {
+      "id": "answer-19-5",
+      "answer": "Flat tire"
+    },
+    {
+      "id": "answer-19-6",
+      "answer": "Wake up, little Suzie"
+    },
+    {
+      "id": "answer-20-1",
+      "answer": "Standing Ovation"
+    },
+    {
+      "id": "answer-20-2",
+      "answer": "Tally ho"
+    },
+    {
+      "id": "answer-20-3",
+      "answer": "Blockhead"
+    },
+    {
+      "id": "answer-20-4",
+      "answer": "Shadow of doubt"
+    },
+    {
+      "id": "answer-20-5",
+      "answer": "We drove right by it"
+    },
+    {
+      "id": "answer-20-6",
+      "answer": "Tiptoe through the tulips"
+    },
+    {
+      "id": "answer-21-1",
+      "answer": "Odd couple"
+    },
+    {
+      "id": "answer-21-2",
+      "answer": "Neon lights"
+    },
+    {
+      "id": "answer-21-3",
+      "answer": "Heat Wave"
+    },
+    {
+      "id": "answer-21-4",
+      "answer": "I'm in between jobs"
+    },
+    {
+      "id": "answer-21-5",
+      "answer": "Parakeets"
+    },
+    {
+      "id": "answer-21-6",
+      "answer": "Skinny Dipping"
+    },
+    {
+      "id": "answer-22-1",
+      "answer": "A tune up"
+    },
+    {
+      "id": "answer-22-2",
+      "answer": "For rent"
+    },
+    {
+      "id": "answer-22-3",
+      "answer": "Looking high and low"
+    },
+    {
+      "id": "answer-22-4",
+      "answer": "Merry go round"
+    },
+    {
+      "id": "answer-22-5",
+      "answer": "Four square"
+    },
+    {
+      "id": "answer-22-6",
+      "answer": "Three little pigs"
+    },
+    {
+      "id": "answer-23-1",
+      "answer": "Bunk Beds"
+    },
+    {
+      "id": "answer-23-2",
+      "answer": "Tricycle"
+    },
+    {
+      "id": "answer-23-3",
+      "answer": "Stay overnight"
+    },
+    {
+      "id": "answer-23-4",
+      "answer": "One on One"
+    },
+    {
+      "id": "answer-23-5",
+      "answer": "I overslept"
+    },
+    {
+      "id": "answer-23-6",
+      "answer": "A close race"
+    },
+    {
+      "id": "answer-24-1",
+      "answer": "Little fish in a big sea"
+    },
+    {
+      "id": "answer-24-2",
+      "answer": "So long for now"
+    },
+    {
+      "id": "answer-24-3",
+      "answer": "Foreigner"
+    },
+    {
+      "id": "answer-24-4",
+      "answer": "Round of Golf"
+    },
+    {
+      "id": "answer-24-5",
+      "answer": "Holy Cow"
+    },
+    {
+      "id": "answer-24-6",
+      "answer": "Picket line"
+    },
+    {
+      "id": "answer-25-1",
+      "answer": "Black eye"
+    },
+    {
+      "id": "answer-25-2",
+      "answer": "The beginning of time"
+    },
+    {
+      "id": "answer-25-3",
+      "answer": "Apply within"
+    },
+    {
+      "id": "answer-25-4",
+      "answer": "Reading between the lines"
+    },
+    {
+      "id": "answer-25-5",
+      "answer": "Pick up after yourself"
+    },
+    {
+      "id": "answer-25-6",
+      "answer": "Standing room only"
+    },
+    {
+      "id": "answer-26-1",
+      "answer": "Flip Flops"
+    },
+    {
+      "id": "answer-26-2",
+      "answer": "Chicken Dinner"
+    },
+    {
+      "id": "answer-26-3",
+      "answer": "Blue in the Face"
+    },
+    {
+      "id": "answer-26-4",
+      "answer": "The Last Straw"
+    },
+    {
+      "id": "answer-26-5",
+      "answer": "The First Noel"
+    },
+    {
+      "id": "answer-26-6",
+      "answer": "Cabin by the Lake"
+    },
+    {
+      "id": "answer-27-1",
+      "answer": "Fill in the Blanks"
+    },
+    {
+      "id": "answer-27-2",
+      "answer": "Inner Strength"
+    },
+    {
+      "id": "answer-27-3",
+      "answer": "Shop Online"
+    },
+    {
+      "id": "answer-27-4",
+      "answer": "Pyramid Scheme"
+    },
+    {
+      "id": "answer-27-5",
+      "answer": "Short of Breath"
+    },
+    {
+      "id": "answer-27-6",
+      "answer": "Seeing Eye Dog"
+    },
+    {
+      "id": "answer-28-1",
+      "answer": "The Odds are Overwhelming"
+    },
+    {
+      "id": "answer-28-2",
+      "answer": "Vanished into Thin Air"
+    },
+    {
+      "id": "answer-28-3",
+      "answer": "Wireless Internet"
+    },
+    {
+      "id": "answer-28-4",
+      "answer": "Close Quarters"
+    },
+    {
+      "id": "answer-28-5",
+      "answer": "He's Getting Under my Skin"
+    },
+    {
+      "id": "answer-28-6",
+      "answer": "Part-time Job"
+    },
+    {
+      "id": "answer-29-1",
+      "answer": "To Have and to Hold"
+    },
+    {
+      "id": "answer-29-2",
+      "answer": "Overcoming the Obstacles"
+    },
+    {
+      "id": "answer-29-3",
+      "answer": "Playing Hard to Get"
+    },
+    {
+      "id": "answer-29-4",
+      "answer": "One Foot in Front of the Other"
+    },
+    {
+      "id": "answer-29-5",
+      "answer": "Seasonings"
+    },
+    {
+      "id": "answer-29-6",
+      "answer": "Trial Separation"
+    },
+    {
+      "id": "answer-30-1",
+      "answer": "Total Mess"
+    },
+    {
+      "id": "answer-30-2",
+      "answer": "Paint by Numbers"
+    },
+    {
+      "id": "answer-30-3",
+      "answer": "Four Part Harmony"
+    },
+    {
+      "id": "answer-30-4",
+      "answer": "Poison Ivy"
+    },
+    {
+      "id": "answer-30-5",
+      "answer": "Tilt a Whirl"
+    },
+    {
+      "id": "answer-30-6",
+      "answer": "Internet Site"
+    },
+    {
+      "id": "answer-31-1",
+      "answer": "Musically Inclined"
+    },
+    {
+      "id": "answer-31-2",
+      "answer": "Overcome the Odds"
+    },
+    {
+      "id": "answer-31-3",
+      "answer": "The Underdog"
+    },
+    {
+      "id": "answer-31-4",
+      "answer": "Cut Above the Rest"
+    },
+    {
+      "id": "answer-31-5",
+      "answer": "One Thing After Another"
+    },
+    {
+      "id": "answer-31-6",
+      "answer": "Waving Goodbye"
+    },
+    {
+      "id": "answer-32-1",
+      "answer": "Bags Under the Eyes"
+    },
+    {
+      "id": "answer-32-2",
+      "answer": "Firing Line"
+    },
+    {
+      "id": "answer-32-3",
+      "answer": "Snake in the Grass"
+    },
+    {
+      "id": "answer-32-4",
+      "answer": "One Step Ahead"
+    },
+    {
+      "id": "answer-32-5",
+      "answer": "Within Reason"
+    },
+    {
+      "id": "answer-32-6",
+      "answer": "More to it than Meets the Eye"
+    },
+    {
+      "id": "answer-33-1",
+      "answer": "Spread a Little Happiness"
+    },
+    {
+      "id": "answer-33-2",
+      "answer": "Pay Raise"
+    },
+    {
+      "id": "answer-33-3",
+      "answer": "Peace on Earth"
+    },
+    {
+      "id": "answer-33-4",
+      "answer": "Never Too Old Too Learn"
+    },
+    {
+      "id": "answer-33-5",
+      "answer": "Room for One More"
+    },
+    {
+      "id": "answer-33-6",
+      "answer": "Upright Piano"
+    },
+    {
+      "id": "answer-34-1",
+      "answer": "High IQ"
+    },
+    {
+      "id": "answer-34-2",
+      "answer": "Misunderstanding"
+    },
+    {
+      "id": "answer-34-3",
+      "answer": "Backwards Somersault"
+    },
+    {
+      "id": "answer-34-4",
+      "answer": "No One is Perfect"
+    },
+    {
+      "id": "answer-34-5",
+      "answer": "Upwards Battle"
+    },
+    {
+      "id": "answer-34-6",
+      "answer": "Times Up"
+    },
+    {
+      "id": "answer-35-1",
+      "answer": "Too Good to Last"
+    },
+    {
+      "id": "answer-35-2",
+      "answer": "Pat on the Back"
+    },
+    {
+      "id": "answer-35-3",
+      "answer": "Life Behind Bars"
+    },
+    {
+      "id": "answer-35-4",
+      "answer": "A Touching Moment"
+    },
+    {
+      "id": "answer-35-5",
+      "answer": "Look Before You Leap"
+    },
+    {
+      "id": "answer-35-6",
+      "answer": "Three Wise Men"
+    },
+    {
+      "id": "answer-36-1",
+      "answer": "Laid Back"
+    },
+    {
+      "id": "answer-36-2",
+      "answer": "Tennis Shoes"
+    },
+    {
+      "id": "answer-36-3",
+      "answer": "Teeny Bopper"
+    },
+    {
+      "id": "answer-36-4",
+      "answer": "School's Out"
+    },
+    {
+      "id": "answer-36-5",
+      "answer": "Blank Look"
+    },
+    {
+      "id": "answer-36-6",
+      "answer": "One Step Forward, Two Steps Back"
+    },
+    {
+      "id": "answer-37-1",
+      "answer": "Loss for Words"
+    },
+    {
+      "id": "answer-37-2",
+      "answer": "No Fun Without U"
+    },
+    {
+      "id": "answer-37-3",
+      "answer": "Side Order"
+    },
+    {
+      "id": "answer-37-4",
+      "answer": "Skating on Thin Ice"
+    },
+    {
+      "id": "answer-37-5",
+      "answer": "An Inside Job"
+    },
+    {
+      "id": "answer-37-6",
+      "answer": "Sign on the Dotted Line"
+    },
+    {
+      "id": "answer-38-1",
+      "answer": "Forgive and Forget"
+    },
+    {
+      "id": "answer-38-2",
+      "answer": "Back Door"
+    },
+    {
+      "id": "answer-38-3",
+      "answer": "Go on a Double Date"
+    },
+    {
+      "id": "answer-38-4",
+      "answer": "Almost Impossible"
+    },
+    {
+      "id": "answer-38-5",
+      "answer": "Afternoon Tea"
+    },
+    {
+      "id": "answer-38-6",
+      "answer": "Not in Use"
+    },
+    {
+      "id": "answer-39-1",
+      "answer": "Lying on the Job"
+    },
+    {
+      "id": "answer-39-2",
+      "answer": "Space Program"
+    },
+    {
+      "id": "answer-39-3",
+      "answer": "Free for All"
+    },
+    {
+      "id": "answer-39-4",
+      "answer": "Double Agent"
+    },
+    {
+      "id": "answer-39-5",
+      "answer": "Any Questions"
+    },
+    {
+      "id": "answer-39-6",
+      "answer": "Smoke Stack"
+    },
+    {
+      "id": "answer-40-1",
+      "answer": "Low Back Pain"
+    },
+    {
+      "id": "answer-40-2",
+      "answer": "Shaking All Over"
+    },
+    {
+      "id": "answer-40-3",
+      "answer": "Short End of the Stick"
+    },
+    {
+      "id": "answer-40-4",
+      "answer": "Head Over Heels in Love"
+    },
+    {
+      "id": "answer-40-5",
+      "answer": "Count Down"
+    },
+    {
+      "id": "answer-40-6",
+      "answer": "Apple Turnover"
+    },
+    {
+      "id": "answer-41-1",
+      "answer": "In Between Jobs"
+    },
+    {
+      "id": "answer-41-2",
+      "answer": "Multiple Personalities"
+    },
+    {
+      "id": "answer-41-3",
+      "answer": "What's Up?"
+    },
+    {
+      "id": "answer-41-4",
+      "answer": "Cake Mix"
+    },
+    {
+      "id": "answer-41-5",
+      "answer": "End to End"
+    },
+    {
+      "id": "answer-41-6",
+      "answer": "A Stitch in Time"
+    },
+    {
+      "id": "answer-42-1",
+      "answer": "Step Ladder"
+    },
+    {
+      "id": "answer-42-2",
+      "answer": "Worlds Apart"
+    },
+    {
+      "id": "answer-42-3",
+      "answer": "Side Burns"
+    },
+    {
+      "id": "answer-42-4",
+      "answer": "Deep in Thought"
+    },
+    {
+      "id": "answer-42-5",
+      "answer": "Tiny Bubbles"
+    },
+    {
+      "id": "answer-42-6",
+      "answer": "Do Without"
+    },
+    {
+      "id": "answer-43-1",
+      "answer": "Excuse Me"
+    },
+    {
+      "id": "answer-43-2",
+      "answer": "Sunny Side Up"
+    },
+    {
+      "id": "answer-43-3",
+      "answer": "Breaking the Ice"
+    },
+    {
+      "id": "answer-43-4",
+      "answer": "It Came Upon a Midnight Clear"
+    },
+    {
+      "id": "answer-43-5",
+      "answer": "I'm Over Worked and Under Paid"
+    },
+    {
+      "id": "answer-43-6",
+      "answer": "Go in Style"
+    },
+    {
+      "id": "answer-44-1",
+      "answer": "Upset Stomach"
+    },
+    {
+      "id": "answer-44-2",
+      "answer": "Sit Back and Relax"
+    },
+    {
+      "id": "answer-44-3",
+      "answer": "Turn Back the Hands of Time"
+    },
+    {
+      "id": "answer-44-4",
+      "answer": "Two Feet"
+    },
+    {
+      "id": "answer-44-5",
+      "answer": "Man Overboard"
+    },
+    {
+      "id": "answer-44-6",
+      "answer": "Parting Comments"
+    },
+    {
+      "id": "answer-45-1",
+      "answer": "Two by Four"
+    },
+    {
+      "id": "answer-45-2",
+      "answer": "Getting Up in the Morning"
+    },
+    {
+      "id": "answer-45-3",
+      "answer": "Tennis Match"
+    },
+    {
+      "id": "answer-45-4",
+      "answer": "No Time for You"
+    },
+    {
+      "id": "answer-45-5",
+      "answer": "They Eyes are Bigger Than the Stomach"
+    },
+    {
+      "id": "answer-45-6",
+      "answer": "Just in Case"
+    },
+    {
+      "id": "answer-46-1",
+      "answer": "Hole in One"
+    },
+    {
+      "id": "answer-46-2",
+      "answer": "Walking on Air"
+    },
+    {
+      "id": "answer-46-3",
+      "answer": "Easel"
+    },
+    {
+      "id": "answer-46-4",
+      "answer": "Prison Sentence"
+    },
+    {
+      "id": "answer-46-5",
+      "answer": "Walk in the Woods"
+    },
+    {
+      "id": "answer-46-6",
+      "answer": "Pigs in a Blanket"
+    },
+    {
+      "id": "answer-47-1",
+      "answer": "Open for Business"
+    },
+    {
+      "id": "answer-47-2",
+      "answer": "Travel Back in Time"
+    },
+    {
+      "id": "answer-47-3",
+      "answer": "Off Sides"
+    },
+    {
+      "id": "answer-47-4",
+      "answer": "We the People"
+    },
+    {
+      "id": "answer-47-5",
+      "answer": "Triathalon"
+    },
+    {
+      "id": "answer-47-6",
+      "answer": "Hand in Hand"
+    },
+    {
+      "id": "answer-48-1",
+      "answer": "Talking a Mile a Minute"
+    },
+    {
+      "id": "answer-48-2",
+      "answer": "Face Lift"
+    },
+    {
+      "id": "answer-48-3",
+      "answer": "Blue Without You"
+    },
+    {
+      "id": "answer-48-4",
+      "answer": "Foreign Policy"
+    },
+    {
+      "id": "answer-48-5",
+      "answer": "Juke Box"
+    },
+    {
+      "id": "answer-48-6",
+      "answer": "Half Sister"
+    },
+    {
+      "id": "answer-49-1",
+      "answer": "Throw in the Towel"
+    },
+    {
+      "id": "answer-49-2",
+      "answer": "All Eyes are on You"
+    },
+    {
+      "id": "answer-49-3",
+      "answer": "High Tide"
+    },
+    {
+      "id": "answer-49-4",
+      "answer": "Hands on Experience"
+    },
+    {
+      "id": "answer-49-5",
+      "answer": "Miniature Golf"
+    },
+    {
+      "id": "answer-49-6",
+      "answer": "Cutting Corners"
+    },
+    {
+      "id": "answer-50-1",
+      "answer": "Two Way Radio"
+    },
+    {
+      "id": "answer-50-2",
+      "answer": "Night Shift"
+    },
+    {
+      "id": "answer-50-3",
+      "answer": "Slap in the Face"
+    },
+    {
+      "id": "answer-50-4",
+      "answer": "Bi-Weekly"
+    },
+    {
+      "id": "answer-50-5",
+      "answer": "Hi Rise Apartments"
+    },
+    {
+      "id": "answer-50-6",
+      "answer": "Boxing Ring"
+    },
+    {
+      "id": "answer-51-1",
+      "answer": "Bermuda Triangle"
+    },
+    {
+      "id": "answer-51-2",
+      "answer": "All Kidding Aside"
+    },
+    {
+      "id": "answer-51-3",
+      "answer": "Late in the Evening"
+    },
+    {
+      "id": "answer-51-4",
+      "answer": "Bump in the Night"
+    },
+    {
+      "id": "answer-51-5",
+      "answer": "Baa Baa Black Sheep"
+    },
+    {
+      "id": "answer-51-6",
+      "answer": "Super Bowl"
+    },
+    {
+      "id": "answer-52-1",
+      "answer": "We are counting on you"
+    },
+    {
+      "id": "answer-52-2",
+      "answer": "A Friend in need"
+    },
+    {
+      "id": "answer-52-3",
+      "answer": "Stepmother"
+    },
+    {
+      "id": "answer-52-4",
+      "answer": "Caught in the moment"
+    },
+    {
+      "id": "answer-52-5",
+      "answer": "Divided highway"
+    },
+    {
+      "id": "answer-52-6",
+      "answer": "Season Tickets"
+    },
+    {
+      "id": "answer-53-1",
+      "answer": "Scatter Brain"
+    },
+    {
+      "id": "answer-53-2",
+      "answer": "Good Intentions"
+    },
+    {
+      "id": "answer-53-3",
+      "answer": "Horseback Riding"
+    },
+    {
+      "id": "answer-53-4",
+      "answer": "Daybreak"
+    },
+    {
+      "id": "answer-53-5",
+      "answer": "All Things Being Equal"
+    },
+    {
+      "id": "answer-53-6",
+      "answer": "Always by my Side"
+    },
+    {
+      "id": "answer-54-1",
+      "answer": "Piggy Back Ride"
+    },
+    {
+      "id": "answer-54-2",
+      "answer": "Side by Side"
+    },
+    {
+      "id": "answer-54-3",
+      "answer": "Laptop Computer"
+    },
+    {
+      "id": "answer-54-4",
+      "answer": "Parallel Bars"
+    },
+    {
+      "id": "answer-54-5",
+      "answer": "40 Days and 40 Nights"
+    },
+    {
+      "id": "answer-54-6",
+      "answer": "All Hands on Deck"
+    },
+    {
+      "id": "answer-55-1",
+      "answer": "The Price is Right"
+    },
+    {
+      "id": "answer-55-2",
+      "answer": "Step on the Gas"
+    },
+    {
+      "id": "answer-55-3",
+      "answer": "Rolling in the Money"
+    },
+    {
+      "id": "answer-55-4",
+      "answer": "He's on Cloud Nine"
+    },
+    {
+      "id": "answer-55-5",
+      "answer": "He's Beside Himself"
+    },
+    {
+      "id": "answer-55-6",
+      "answer": "Ring Around the Rosie"
+    },
+    {
+      "id": "answer-56-1",
+      "answer": "Please with Sugar on Top"
+    },
+    {
+      "id": "answer-56-2",
+      "answer": "The Last Frontier"
+    },
+    {
+      "id": "answer-56-3",
+      "answer": "One in the Same"
+    },
+    {
+      "id": "answer-56-4",
+      "answer": "Just Between Us"
+    },
+    {
+      "id": "answer-56-5",
+      "answer": "Think About It"
+    },
+    {
+      "id": "answer-56-6",
+      "answer": "Good Till the Last Drop"
+    },
+    {
+      "id": "answer-57-1",
+      "answer": "Middle of the Road"
+    },
+    {
+      "id": "answer-57-2",
+      "answer": "See You Around"
+    },
+    {
+      "id": "answer-57-3",
+      "answer": "Lost in Space"
+    },
+    {
+      "id": "answer-57-4",
+      "answer": "Safety in Numbers"
+    },
+    {
+      "id": "answer-57-5",
+      "answer": "Hold on a Minute"
+    },
+    {
+      "id": "answer-57-6",
+      "answer": "Mass Confusion"
+    },
+    {
+      "id": "answer-58-1",
+      "answer": "He's Larger Than Life"
+    },
+    {
+      "id": "answer-58-2",
+      "answer": "Little did I Know"
+    },
+    {
+      "id": "answer-58-3",
+      "answer": "Count Your Blessings"
+    },
+    {
+      "id": "answer-58-4",
+      "answer": "I'm in Trouble"
+    },
+    {
+      "id": "answer-58-5",
+      "answer": "Don't Bet on It"
+    },
+    {
+      "id": "answer-58-6",
+      "answer": "Hand it Over Now"
+    },
+    {
+      "id": "answer-59-1",
+      "answer": "I See You Understand"
+    },
+    {
+      "id": "answer-59-2",
+      "answer": "Did it Cross Your Mind?"
+    },
+    {
+      "id": "answer-59-3",
+      "answer": "All in All"
+    },
+    {
+      "id": "answer-59-4",
+      "answer": "Little House on the Prairie"
+    },
+    {
+      "id": "answer-59-5",
+      "answer": "Incomplete Sentence"
+    },
+    {
+      "id": "answer-59-6",
+      "answer": "Count Dracula"
+    },
+    {
+      "id": "answer-60-1",
+      "answer": "Think Twice About It"
+    },
+    {
+      "id": "answer-60-2",
+      "answer": "Walk on Water"
+    },
+    {
+      "id": "answer-60-3",
+      "answer": "Space Invaders"
+    },
+    {
+      "id": "answer-60-4",
+      "answer": "You Are Always on my Mind"
+    },
+    {
+      "id": "answer-60-5",
+      "answer": "Keep on Smiling"
+    },
+    {
+      "id": "answer-60-6",
+      "answer": "It Doesn't Add Up"
+    }
+  ]
+}
