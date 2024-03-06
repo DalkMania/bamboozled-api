@@ -903,7 +903,7 @@
     {
       "id": "puzzle-28-1",
       "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle28-1.png",
-      "current": false,
+      "current": true,
       "hasBeen": false
     },
     {
@@ -1737,8 +1737,8 @@
     {
       "id": "puzzle-51-2",
       "puzzleImage": "https://gameon-static.s3.us-west-1.amazonaws.com/bamboozled-feature-assets/images/puzzle51-2.png",
-      "current": true,
-      "hasBeen": false
+      "current": false,
+      "hasBeen": true
     },
     {
       "id": "puzzle-51-3",
