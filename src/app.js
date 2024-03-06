@@ -1,32 +1,20 @@
 import autoload from "@fastify/autoload";
-// eslint-disable-next-line import/no-unresolved
+import sensiblePlugin from "./plugins/sensible.js";
+import lowDBPlugin from "./plugins/lowdb.js";
+import rootRoute from "./routes/root.js";
+import answerRoute from "./routes/answer.js";
+import randomizeRoute from "./routes/randomize.js";
+import checkRoute from "./routes/check.js";
+
 import { JSONFilePreset } from "lowdb/node";
-import path from "node:path";
-import { fileURLToPath } from "node:url";
 
 /** @type {import('fastify').FastifyPluginAsync} */
 export default async function (fastify, options) {
-  const dirname = path.dirname(fileURLToPath(import.meta.url));
+  fastify.register(sensiblePlugin);
+  fastify.register(lowDBPlugin);
 
-  /*
-   * This loads all plugins defined in plugins
-   * those should be support plugins that are reused
-   * through your application
-   */
-  fastify.register(autoload, {
-    dir: path.join(dirname, "plugins"),
-    options: {
-      adapter: await JSONFilePreset(path.join(dirname, "/db/db.json"), {}),
-      ...options,
-    },
-  });
-
-  /*
-   * This loads all plugins defined in routes
-   * define your routes in one of these
-   */
-  fastify.register(autoload, {
-    dir: path.join(dirname, "routes"),
-    options: { ...options },
-  });
+  fastify.register(rootRoute);
+  fastify.register(answerRoute);
+  fastify.register(randomizeRoute);
+  fastify.register(checkRoute);
 }
