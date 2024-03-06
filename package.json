@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "fastify start -w --ignore-watch='db.json' -l info -P src/app.js",
-    "build": "fastify start -l info src/app.js"
+    "start": "fastify start -l info src/app.js",
+    "vercel": "vercel dev"
   },
   "keywords": [],
   "author": "",
@@ -21,5 +22,8 @@
     "fastify-plugin": "^4.5.1",
     "fastify-sensible": "^3.2.0",
     "lowdb": "^7.0.1"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.0.21"
   }
 }
