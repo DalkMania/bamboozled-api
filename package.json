@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "fastify start -w --ignore-watch='db.json' -l info -P src/app.js",
-    "start": "fastify start -l info src/app.js"
+    "build": "fastify start -l info src/app.js"
   },
   "keywords": [],
   "author": "",
