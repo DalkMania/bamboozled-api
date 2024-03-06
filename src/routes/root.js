@@ -6,8 +6,10 @@ import { getCurrentPuzzle } from "../schemas/root.js";
  * @type {import('fastify').FastifyPluginAsync}
  */
 export default async function (fastify) {
-  const currentPuzzle = fastify.db.data.puzzles.find((puzzle) => puzzle.current === true);
+  const currentPuzzle = () => {
+    return fastify.db.data.puzzles.find((puzzle) => puzzle.current === true);
+  };
   fastify.get("/", { schema: getCurrentPuzzle }, () => ({
-    ...currentPuzzle,
+    ...currentPuzzle(),
   }));
 }

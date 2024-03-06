@@ -12,6 +12,8 @@ export default async function (fastify) {
       (answer) => answer.id === currentPuzzle.id.replace("puzzle", "answer")
     );
 
+    console.log(currentPuzzle);
+
     return currentAnswer;
   };
 
